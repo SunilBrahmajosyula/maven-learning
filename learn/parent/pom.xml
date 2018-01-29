@@ -24,6 +24,5 @@
   </dependencies>
   <modules>
     <module>backend</module>
-    <module>third-party-bom</module>
   </modules>
 </project>
